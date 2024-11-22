@@ -1,0 +1,3 @@
+Savings: $700
+Savings: $1000
+Savings: $3000
